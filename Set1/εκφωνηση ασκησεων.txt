@@ -1,0 +1,2 @@
+Βιβλιο Lamagna, Edmund A - Computer algebra_ concepts andtechniques
+σελ. 109-110.   να κάνετε τις ασκήσεις 2, 10, 11 στο TeXmacs
